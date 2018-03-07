@@ -1,0 +1,11 @@
+1- iniciar servidor node dentro de la carpeta node de laravel
+  > node server.js 
+
+2- Inciar Redis en cualquier parte ya que esta global
+  > redis-server
+
+3- Iniciar el monitor de Redis
+  > redis-cli monitor
+
+4- Correr el cliente ( javascript por lo pronto ) para probar socket.io
+ > http-server
